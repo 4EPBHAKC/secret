@@ -7,7 +7,7 @@ from telegram import Update, InputMediaPhoto, InputMediaVideo
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Configurações do bot
-BOT_TOKEN = "7876623926:AAHSk2j5YYvbn1mc6pjqOfDmmkl6izevak0"
+BOT_TOKEN = "7923626559:AAF_8D6zS5ceGEGYMOO5Q3r74wbgwBsfXCM"
 GROUP_ID = -1002375640119  # ID do supergrupo
 
 # Configuração do fuso horário
